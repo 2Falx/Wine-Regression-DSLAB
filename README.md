@@ -1,8 +1,8 @@
 # Wine-Regression-DSLAB
-###Final Project for the "DATA SCIENCE LAB: Processes and Methods" course at Politecnico di Torino
-####Fall 2020/2021
+### Final Project for the "DATA SCIENCE LAB: Processes and Methods" course at Politecnico di Torino
+#### Fall 2020/2021
 
-#####Abstract—
+##### Abstract—
 
 In this report we introduce a possible approach to the Wine-Review Regression problem.
 In particular, we try to build up a regression model capable to deduce wines quality based on some given attributes.
